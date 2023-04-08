@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: aqua;
+  box-sizing: border-box;
+}
+.first {
+  text-align: center;
+  margin: 200px;
+  margin-bottom: 10px;
+  color: white;
+  text-shadow: 4px 2px blue;
+}
+.Second {
+  margin: auto;
+  /* margin-right: auto; 
+    margin-left: auto; */
+  width: 60%;
+  color: white;
+}
+.third {
+  text-align: center;
+}
+.border {
+  height: 120%;
+  position: relative;
+  border: 3px solid blue;
+  width: 850px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: blue;
+}
+.heading {
+  text-align: center;
+  color: white;
+  text-shadow: 4px 2px green;
+}
+.link {
+  text-align: center;
+}
